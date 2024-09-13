@@ -19,4 +19,4 @@ A simple password generator built with React that allows users to create strong 
 
    ```bash
    https://github.com/AhsanYaqoob/Password_Generator
-   cd password-generator
+  
